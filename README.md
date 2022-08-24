@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Ayush Kumar Singh
+- 👀 I’m interested in coding and webdevelopment
+- 🌱 I’m currently learning DSA
+- 📫 How to reach me ayushsingh05086@gmail.com
