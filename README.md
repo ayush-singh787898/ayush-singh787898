@@ -5,7 +5,6 @@
 
 
 
-
 <h1 align="center">Hi 👋, I'm Ayush Kumar Singh</h1>
 <h3 align="center">A passionate frontend developerper from India</h3>
 <img align="right" alt="Coding" widht="400px src="https://media.istockphoto.com/id/932559358/photo/silhouette-of-virtual-human-on-circuit-pattern-technology-3d-illustration.jpg?s=612x612&w=0&k=20&c=nIlIze3WtyNN6kZZpWFL3oRSycHFTugUCNxRFEBkOYw=">
@@ -27,4 +26,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayush-singh787898&show_icons=true&locale=en" alt="ayush-singh787898" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayush-singh787898&" alt="ayush-singh787898" /></p>
-
